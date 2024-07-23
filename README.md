@@ -8,5 +8,5 @@
   <p>- Foi utulizado Responsividade nesse projeto</p>
   <P>- HTML</P>
   <P>- CSS</P>
-<img src="https://github.com/Thiago2Araujo/Easy-Shopping/blob/Easy-Shopping/2024-07-22%20(4).png?raw=true">
+<img src="https://github.com/Thiago2Araujo/Easy-Shopping/blob/Easy-Shopping/2024-07-22%20(4).png?raw=true" />
 
